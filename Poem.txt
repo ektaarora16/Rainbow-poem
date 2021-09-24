@@ -1,5 +1,6 @@
 Violet
 Indigo
+purple
 Brown
 Green
 Yellow
