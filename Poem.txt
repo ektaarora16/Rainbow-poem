@@ -3,4 +3,5 @@ Indigo
 Brown
 Green
 Yellow
+Orange
 Red
